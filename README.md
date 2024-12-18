@@ -1,4 +1,4 @@
-**Summary:**  
+## **Summary:**  
 I set up an AWS EC2 instance with a Flask web application. The project required establishing a SQLite3 database, installing an Apache web server using `mod_wsgi`, and starting an EC2 machine with the Ubuntu Server 24.04 LTS AMI.  
 
 The application has a user registration screen that gathers and saves personal data, such as email, first and last names, passwords, and usernames. The user is taken to a profile page with the information they have submitted after registering. In order to obtain user information using stored credentials, a login page was also put into place.  
